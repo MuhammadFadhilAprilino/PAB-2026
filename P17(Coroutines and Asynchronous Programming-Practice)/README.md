@@ -81,7 +81,6 @@ Semua modifikasi memakai materi dari modul, tanpa library atau konsep tambahan.
 | Tombol **Back to top** untuk menggulir daftar ke atas | `rememberCoroutineScope`, Bagian 4.3 |
 | Tampilan baru: satu `LazyColumn` dengan kartu mode, kartu status (loading, error dengan Retry, hasil), dan kartu uji responsivitas | Bagian 7.8 (state hoisting) |
 | Data tugas ditambah menjadi 8 dan jumlah mata kuliah menjadi 6 supaya daftar bisa digulir | Bagian 7.5 |
-| Teks tampilan, pesan error, dan data contoh diubah ke bahasa Indonesia (nama tombol dan judul tetap bahasa Inggris) | Bagian 7.5 sampai 7.8 |
 
 ## Tangkapan Layar
 
