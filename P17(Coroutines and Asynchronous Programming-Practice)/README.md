@@ -91,13 +91,14 @@ Semua modifikasi memakai materi dari modul, tanpa library atau konsep tambahan.
 
 | Kondisi | Screenshot |
 |---|---|
-| Setelah Load (3 tugas dan pengumuman) | `screenshots/modul_load.png` |
+| Setelah Load (3 tugas dan pengumuman) | ![Load sebelum modifikasi](<screenshots/Load(sebelum modifikasi).png>) |
 
 ### 2. Aplikasi setelah modifikasi
 
 | Kondisi | Screenshot |
 |---|---|
-| Setelah Load, mode konkuren (sekitar 2000 ms) | `screenshots/modifikasi_konkuren.png` |
-| Setelah Load, mode sekuensial (sekitar 4500 ms) | `screenshots/modifikasi_sekuensial.png` |
-| Load (fail) dengan tombol Retry | `screenshots/modifikasi_error_retry.png` |
-| Setelah Sort by title | `screenshots/modifikasi_sort.png` |
+| Setelah Load, mode konkuren (sekitar 2000 ms) | ![Load konkuren](<screenshots/Load(konkuren).png>) |
+| Setelah Load, mode sekuensial (sekitar 4500 ms) | ![Load sekuensial](<screenshots/Load(sekuensial).png>) |
+| Load (fail) dengan tombol Retry (1) | ![Load fail Retry 1](<screenshots/Load(fail) + Retry (1).png>) |
+| Load (fail) dengan tombol Retry (2) | ![Load fail Retry 2](<screenshots/Load(fail) + Retry (2).png>) |
+| Setelah Sort by title | ![Sort](screenshots/Sort.png) |
